@@ -42,6 +42,10 @@ To deploy this project run
 http://localhost:8501/
 ```
 
+## Deployment Video
+``` bash
+https://drive.google.com/file/d/1iZEkMY5sivvgQsWMZxmEkbGVZzQGb0C4/view?usp=drive_link
+```
 
 
 ## Data Preprocessing
