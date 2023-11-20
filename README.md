@@ -39,7 +39,7 @@ standard_scaler.pkl: Pickle file for the StandardScaler used in preprocessing.
 To deploy this project run
 
 ```bash
- http://localhost:8501/
+http://localhost:8501/
 ```
 
 
